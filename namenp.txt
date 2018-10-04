@@ -1,0 +1,38 @@
+<html>
+ <style>
+div {
+  Height: 747px;
+  background: linear-gradient(to top, pink 10,  #003155  70);
+}
+</style>
+
+
+<body>
+
+<div class="container">
+<font color="black">
+<font face="cooper black">
+<body bgcolor="black" text="white">
+<p align="center"><img src="me6.jpg" height="350" width="400">
+<font color="Pink">
+<font size="4">
+<p><p align="center">
+Name: Sittie Helmah A. Nakan
+ <p><p align="center">
+Nickname: Kyiarrah
+<p><p align="center">
+Gender: Female
+<p><p align="center">
+Age:15
+<p><p align="center">
+Birthdate: November 4, 2002
+<p><p align="center">
+Zodiac sign: Scorpio
+<p><p align="center">
+
+<div><a href="final1.html">Back</a></div></center>
+</body>
+
+
+
+</html>
